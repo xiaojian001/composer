@@ -1,0 +1,8 @@
+{
+    "name": "xiaojian001/composer",
+    "description": "a test compser project",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
